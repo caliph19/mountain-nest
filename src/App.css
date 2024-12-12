@@ -1,0 +1,20 @@
+*{
+  padding: 0px;
+  margin: 0%;
+  /* background-color: #f0f0f0; */
+}
+.card-rating {
+  font-size: 16px !important;
+}
+.scrolltop{
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  padding: 7px 10px;
+  background-color: #2aa5df;
+  color: white;
+  border-radius: 5px;
+  font-size: 20px;
+  transition: all 0.5s ease 0s;
+  cursor: pointer;
+}

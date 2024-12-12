@@ -1,0 +1,144 @@
+#app {
+    height: 100%;
+  }
+  html,
+  body {
+    position: relative;
+    height: 100%;
+  }
+  
+
+  
+  body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+  }
+  #set-slider-card1{
+    width: 515px !important;
+    height: 300px !important;
+    background: transparent;
+  }
+  .swiper {
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .swiper.wrapper {
+    display: flex !important;
+}
+  
+  .swiper-slide {
+    font-size: 18px;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 55vh;
+    object-fit: cover;
+  }
+  .card-map-center{
+    display: flex;
+    justify-content: space-between;
+}
+.card11{
+    width: 100%;
+    height: 50vh;
+    border-radius: 25px;
+    background-color: #0492bb;
+    overflow : hidden;
+    box-shadow: 5px 4px 8px 0px #4f8c9e;
+    display: flex;
+}
+.card11:hover {
+    /* transform: scale(1.03);
+    transition: 0.3s all ease-in-out; */
+    color: #363636;
+}
+.card1-img{
+    width: 80%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.empty{
+  width: 170px;
+  height: 190px;
+    background-size: cover;
+    background-position: center;
+}
+#set-map-image{
+    width: 100%;
+    height: 100%;
+    border-radius: 25px;
+}
+.swiper-pagination-clickable .swiper-pagination-bullet {
+    cursor: pointer;
+    width: 24px;
+    height: 5px;
+    border: none;
+    border-radius: 0px;
+    background-color: #0492bb;
+}
+.card11-details22{
+    width: 97%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.card11-details22-center{
+    width: 89%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.sliderclintname{
+  font-size: 13px;
+  color: #fff;
+  font-family: Poppins;
+  
+}
+.sliderclintjob{
+  font-size: 15px;
+  color: #FFFFFFCC;
+  font-family: Poppins;
+  height: 6vh;
+  display: flex;
+  
+}
+.sliderclintreview{
+  font-size: 15px;
+  color: #FFFFFFCC;
+  font-family: Poppins;
+  
+}
+/* .card11-button{
+    width: 45%;
+    display: flex;
+    align-items: end;
+    justify-content: center;
+    height: 10vh;
+}
+.card11-button button{
+    display: inline-flex;
+    padding: 12px 24px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+} */

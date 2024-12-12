@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "mountainnest-bd302",
+    "mountainnest-bd302": "mountainnest-bd302"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
