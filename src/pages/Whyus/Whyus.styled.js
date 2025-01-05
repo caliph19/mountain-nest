@@ -20,6 +20,6 @@ width: 100%;
 height: 10vh;
 display:flex;
 align-items: center;
-background-color: red;
+background-color: yellow;
 justify-content: center;
 `
