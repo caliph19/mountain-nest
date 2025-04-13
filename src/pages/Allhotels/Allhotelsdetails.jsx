@@ -211,7 +211,8 @@ const Allhotelsdetails = (props) => {
                 </Bookingbox1>
                 <Bookingbox1>
                   <IoBed id="set-exp" />
-                  1 double bed and 1 twin bed
+                  {data.hotelbedsquantity}
+                  
                 </Bookingbox1>
               </Bookingcolumn1>
               <Bookingcolumn2>

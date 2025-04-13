@@ -1,5 +1,5 @@
 import Allhotelsimag1 from '../../images/hotel1.png';
-import Allhotelsimag2 from '../../images/hotel1.png';
+import blossamouter from '../../images/blossamouter.jpg';
 import Allhotelsimag3 from '../../images/hotel1.png';
 import Allhotelsimag4 from '../../images/hotel1.png';
 import { Allhotelsroomsprice } from './Allhotels.styled';
@@ -17,8 +17,8 @@ const Allhotelsdata = [
     {
         
         id: "0001",
-        hotelimage: Allhotelsimag1,
-        hotelname : "Blossom Guest House",
+        hotelimage: blossamouter,
+        hotelname : "Blossam Guest House",
         category:'hunza',        
         hotelreview:3 ,
         hoteloverview:1200,
@@ -34,7 +34,7 @@ const Allhotelsdata = [
         hotelsparagrap1: 'Discover tranquility at Blossom Guest House in Gilgit! This charming retreat offers cozy rooms, stunning views, and warm hospitality. Savor delicious local cuisine and unwind in serene surroundings. Friendly staff and excellent service make it an ideal haven for a relaxing getaway in the heart of Zulfiqarabad Jutial.',
         hotelsparagrap2: 'Exceptional services at Blossom Guest House! Friendly staff, prompt room service, and tour assistance make your stay seamless. Enjoy delicious meals, laundry facilities, and Wi-Fi connectivity. The guest houses attentive team ensures a comfortable and memorable experience in Gilgit.',
         hotelsparagrap3: 'Blossom Guest House provides: Free Wi-Fi, 24/7 electricity, and water supply, Complimentary parking, Laundry facilities, Room service, and Tour assistance. Enjoy a comfortable stay with modern amenities and stunning views, making it an ideal choice for travelers in Gilgit',
-        
+        hotelbedsquantity:'1 double bed and 1 twin bed'
     },  
     {
         
